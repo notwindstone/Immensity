@@ -10,18 +10,20 @@
 
 </div>
 
-## Screenshots
+## 📱 Screenshots
 
-## Tech Stack
+## ⚙️ Tech Stack
 
-## Features
+## ⭐️ Features
 
-## To-Do List
+## ✅ To-Do List
 
-## Installation
+## ⬇️ Installation
 
-## Contributing
+## ✨ Contributing
 
-## Credits
+## 💬 Contact
 
-## License
+## ❤️ Credits
+
+## 📜 License
