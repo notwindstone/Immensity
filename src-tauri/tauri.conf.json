@@ -11,11 +11,22 @@
   },
   "tauri": {
     "allowlist": {
-      "all": false,
-      "shell": {
-        "all": false,
-        "open": true
-      }
+      "all": true,
+      "app": { "all": true },
+      "shell": { "all": true, "execute": true, "sidecar": true, "open": true },
+      "fs": { "all": true, "scope": ["**", "**/*", "/**/*"] },
+      "http": { "all": true, "request": true, "scope": ["https://**/*"] },
+      "path": { "all": true },
+      "dialog": {
+        "all": true,
+        "ask": true,
+        "confirm": true,
+        "message": true,
+        "open": true,
+        "save": true
+      },
+      "os": { "all": true },
+      "protocol": { "all": true, "asset": true, "assetScope": ["*"] }
     },
     "windows": [
       {
