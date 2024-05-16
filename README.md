@@ -20,6 +20,8 @@
 
 ## ⬇️ Installation
 
+https://tauri.app/v1/guides/getting-started/setup/
+
 ## ✨ Contributing
 
 ## 💬 Contact
