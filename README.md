@@ -1,3 +1,6 @@
+use https://github.com/freesmteam/kaede (it is build on wails instead of tauri)
+
+
 <div align="center">
 
   <p>Some logo</p>
